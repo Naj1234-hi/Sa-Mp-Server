@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beta Testing Server Info</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            max-width: 700px;
+            background: white;
+            padding: 20px;
+            margin: 50px auto;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #333;
+        }
+        p {
+            text-align: left;
+            line-height: 1.6;
+        }
+        .discord-link {
+            display: inline-block;
+            background-color: #7289DA;
+            color: white;
+            padding: 10px 15px;
+            text-decoration: none;
+            font-size: 18px;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+        .discord-link:hover {
+            background-color: #5b6eae;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h2>Guys, you're just joining the server for beta testing.</h2>
+        <p>There's still a lot to fix. When you join, can you suggest what is missing from the server?</p>
+        <p>Plus, when you enter, there's verification. It's just that I don't have a tutor yet on how to verify. All you have to do is type <strong>/verify</strong>, and then when you enter, type <strong>/settings</strong>. Then a code will appear. Just go to the Discord server and find the channel <strong>"#✔️•verify-in-game"</strong> and type:</p>
+        <p><strong>!verify [your code]</strong></p>
+        <p>That's it!</p>
+        
+        <h3>Discord Server:</h3>
+        <a class="discord-link" href="https://discord.gg/Q7XTzpDxF4" target="_blank">Join Our Discord</a>
+
+        <h3>Reminder:</h3>
+        <p>This SA-MP server is new, so don't be surprised if the number of members is low. I hope you support me, thanks!</p>
+
+        <h3>Needs:</h3>
+        <ul>
+            <li>Helpers for newbies and members who need help.</li>
+            <li>Faction members (Police, Government, etc.).</li>
+            <li>Staff positions: Teachers, BanAppealer, GangMod, and eight admins for checking bugs.</li>
+            <li>Gangs that can fight as long as you have RP. Just ask permission from the staff or admin.</li>
+        </ul>
+
+        <h3>And lastly...</h3>
+        <p>I hope that a kind developer out there will teach me how to code, hehe 😅. But just kidding... but if you want, go ahead!</p>
+    </div>
+
+</body>
+</html>
